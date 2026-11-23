@@ -1,0 +1,1 @@
+{ "version": "2.0.0", "tasks": [ { "label": "Executar estoque", "type": "shell", "command": "python", "args": ["estoque-uniformes.py"], "group": { "kind": "build", "isDefault": true }, "problemMatcher": [] } ] }
